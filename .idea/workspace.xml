@@ -1,11 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e22b4c55-6eec-4d81-b2ab-49d4d59d6f4d" name="Changes" comment="" />
+    <list default="true" id="e22b4c55-6eec-4d81-b2ab-49d4d59d6f4d" name="Changes" comment="Перенос 4 лабораторной">
+      <change afterPath="$PROJECT_DIR$/data/people.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/demidov/task1/Fraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/demidov/task1/Measurable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/demidov/task2/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/demidov/task2/MeowCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/demidov/task2/Meowable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/demidov/task3/ListOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/demidov/task4/FuelPriceMonitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/demidov/task5/LetterCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/demidov/task6/QueueBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/demidov/task7/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/demidov/task7/PeopleProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/demidov/task7/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/demidov/task7/Polyline.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/demidov/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/demidov/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/demidov/task1/Box.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/demidov/task1/Storage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/demidov/task2/Point2D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/demidov/task2/Point3D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/demidov/task2/PointBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/demidov/task3/CollectionMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/demidov/task3/FilterMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/demidov/task3/GenericMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/demidov/task3/ReductionMethods.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,11 +59,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.QueueBuilder.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/777/javalab5/untitled1"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\777\javalab5\untitled1" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,6 +81,28 @@
       <option name="presentableId" value="Default" />
       <updated>1732818800326</updated>
     </task>
+    <task id="LOCAL-00001" summary="Начало работы">
+      <option name="closed" value="true" />
+      <created>1732818854392</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732818854392</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Перенос 4 лабораторной">
+      <option name="closed" value="true" />
+      <created>1732818912104</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732818912104</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Начало работы" />
+    <MESSAGE value="Перенос 4 лабораторной" />
+    <option name="LAST_COMMIT_MESSAGE" value="Перенос 4 лабораторной" />
   </component>
 </project>
