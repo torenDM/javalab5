@@ -12,7 +12,7 @@ public class Polyline {
 
     @Override
     public String toString() {
-        return "Линия " + points.stream()
+        return "Линия: " + points.stream()
                 .map(Point::toString)
                 .collect(Collectors.joining(", ", "[", "]"));
     }

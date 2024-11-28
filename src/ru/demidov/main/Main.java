@@ -31,8 +31,8 @@ public class Main {
 
         MeowCounter.countMeows(cat1, cat2);
 
-        System.out.println("Барсик мяукал " + cat1.getMeowCount() + " раз.");
-        System.out.println("Том мяукал " + cat2.getMeowCount() + " раз.");
+        System.out.println(cat1 + " мяукал " + cat1.getMeowCount() + " раз.");
+        System.out.println(cat2 + " мяукал " + cat2.getMeowCount() + " раз.");
 
 
         // Задача 3.7: Структурные шаблоны
